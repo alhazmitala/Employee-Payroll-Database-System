@@ -2,6 +2,7 @@
 This project undertakes the design of a database application for PSU Employee Payroll System. This project includes: System’s Functional and Non-Functional Requirements, EER-Modeling, Database Design, Creating Tables using a relational DBMS, Writing SQL Queries, and Designing a non-trivial application.
 
 Further details and project results are found in the `PSUPayrollSystemReport.pdf` file attached.
+
 A presentation detailing all project phases is found in the `PSUPayrollSystemPresentation.pdf` file attached.
 
 # Details
