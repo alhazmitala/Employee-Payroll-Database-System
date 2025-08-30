@@ -12,7 +12,7 @@ Programming Languages
 
 Tools
 -----
-- MySQL Workbench: Development Environment, Tooling Platform and Application Framework.
+- MySQL Workbench: Used to design, model, generate, and manage databases.
 
 # Help
 If you have questions, suggestions, or feedback, feel free to contact me via:
